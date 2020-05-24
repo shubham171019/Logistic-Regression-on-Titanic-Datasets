@@ -2,4 +2,4 @@
 We have vizulize the data sets,
 clean it,
 convert categorical features
-and build logistic regression model
+and build logistic regression model \n
